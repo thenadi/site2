@@ -792,7 +792,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Silk",
@@ -819,6 +819,32 @@
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Silk",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/1858491039717550292-1080x1350.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/1858491039717550292-1080x1350-800x1113.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Silk",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/1924076268363902067-774x968.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1924076268363902067-774x968-774x968.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           }
